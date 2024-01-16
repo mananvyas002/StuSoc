@@ -7,6 +7,7 @@ Languages used:
 - JavaScript
 - PHP
 
+Using registration number and enrollment number to verify students.
 PHP mailer is used to verify user on first login like two factor authentication and forget password
 
 This website using the registration number provided in the admission list to verify the student and than register the student and provide access to the social media site.
@@ -18,3 +19,9 @@ Add your students registration list to "csv/students.csv" so signing up user can
 This website is not fully responsive and there are some input formats you can change if you want to.
 
 If you can add something please go ahead.
+
+References:
+- Google
+- Github
+- Youtube
+- Some other sites
